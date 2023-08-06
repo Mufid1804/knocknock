@@ -1,0 +1,15 @@
+google.com
+example.com
+openai.org
+thisisunlikelytoexistxyz12345.com
+bbc.co.uk
+some-random-nonexistent-website.org
+microsoft.com
+yetanotherfakeurl123.net
+apple.com
+totallymadeupdomainhere.biz
+reddit.com
+fakesiteforopenaiquery.info
+amazon.com
+notarealdomainforsure.cc
+bri.co.id

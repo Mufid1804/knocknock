@@ -1,0 +1,16 @@
+https://apple.com
+http://apple.com
+https://bbc.co.uk
+https://google.com
+https://example.com
+http://bbc.co.uk
+http://google.com
+http://example.com
+https://amazon.com
+https://microsoft.com
+https://reddit.com
+http://microsoft.com
+http://reddit.com
+http://amazon.com
+https://bri.co.id
+http://bri.co.id
