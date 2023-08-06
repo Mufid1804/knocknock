@@ -16,6 +16,7 @@ import (
 )
 
 func main() {
+	startTime := time.Now()
 
 	// input file path flag
 	var input string
@@ -163,6 +164,9 @@ func main() {
 
 	// wait untill output done
 	outputWG.Wait()
+
+	elapsedTime := time.Since(startTime)
+	fmt.Printf("Execution took %s\n", elapsedTime)
 }
 
 // check 2xx or 3xx response
